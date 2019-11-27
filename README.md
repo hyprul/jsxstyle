@@ -1,2 +1,0 @@
-# jsxstyle
-Created with CodeSandbox
