@@ -9,7 +9,7 @@ ReactDOM.render(
       My Favourite Foods
     </h1>
     <div>
-      <img src={img} />
+      <img src={img} alt="lorem" />
       {/* <img
         src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hand-held-bbq-favorites-royalty-free-image-694189032-1564779029.jpg?resize=480:*"
         alt="food"
